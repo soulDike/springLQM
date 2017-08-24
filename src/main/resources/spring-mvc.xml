@@ -33,4 +33,5 @@
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" p:order="100"
           p:viewClass="org.springframework.web.servlet.view.JstlView"
           p:prefix="/WEB-INF/views/" p:suffix=".jsp"/>
+
 </beans>
